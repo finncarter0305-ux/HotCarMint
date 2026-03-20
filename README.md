@@ -37,7 +37,7 @@ Follow these simple steps to get MotorMint running on your computer:
 ### 1. Clone the Repository
 
 ```bash
-https://bitbucket.org/motormint_tech/mmt_frontend/src
+git clone https://github.com/finncarter0305-ux/HotCarMint.git
 ```
 
 ### 2. Navigate to the Project Folder
